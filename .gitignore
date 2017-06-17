@@ -49,3 +49,5 @@ _webpack-config-preview.json
 .DS_Store
 
 tempRepos
+
+*.temp.*

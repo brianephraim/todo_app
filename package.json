@@ -1,6 +1,6 @@
 {
   "name": "@defualt/todo_app",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
     "start": "devenv"
@@ -22,7 +22,7 @@
     "styled-components": "^1.4.6"
   },
   "devDependencies": {
-    "@defualt/dev_env": "^0.0.13"
+    "@defualt/dev_env": "^0.0.14"
   },
   "repository": {
     "type": "git",
